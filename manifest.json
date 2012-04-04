@@ -1,0 +1,24 @@
+{
+	"BundleType": "Application",
+	"AcceptedLinkTypes":[
+		"album",
+		"artist",
+		"track",
+		"playlist",
+		"user"
+	],
+	"AppIcon": {
+		"18x18": "icon.png"
+	},
+	"AppName": {
+		"en": "MakeList"
+	},
+	"SupportedLanguages": [
+		"en"
+	],
+	"DefaultTabs": [
+	],
+	"RequiredPermissions": [
+		
+	]
+}
